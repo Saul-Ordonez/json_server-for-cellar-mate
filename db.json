@@ -1,0 +1,224 @@
+{
+  "beers": [
+    {
+      "name": "The Lucy",
+      "brewery": "DeGarde Brewing Co.",
+      "beerStyle": "Spontaneous Wild Ale",
+      "bottleDate": "January 2019",
+      "abv": "8",
+      "ibu": "38",
+      "description": "Aged in Oak Barrels with Muscat Grapes",
+      "id": 1
+    },
+    {
+      "name": "Backwoods Bastard",
+      "brewery": "Founders",
+      "beerStyle": "Porter",
+      "bottleDate": "September 29, 2017",
+      "abv": "11.2",
+      "ibu": "45",
+      "description": "Ale Aged in Oak Bourbon Barrels",
+      "id": 2
+    },
+    {
+      "name": "High West-ified",
+      "brewery": "Lagunitas",
+      "beerStyle": "Imperia Stout",
+      "bottleDate": "2016",
+      "abv": "12.2",
+      "ibu": "41",
+      "description": "Coffee Stout Aged in High West Rye Barrels",
+      "id": 3
+    },
+    {
+      "name": "Tenacious Ten",
+      "brewery": "Double Mountain",
+      "beerStyle": "Oatmeal Stout",
+      "bottleDate": "2018",
+      "abv": "11.5",
+      "ibu": "110",
+      "description": "Imperial Rye Oatmeal Stout Aged in Bourbon Barrels",
+      "id": 4
+    },
+    {
+      "name": "Wooden Teeth",
+      "brewery": "Ex Novo",
+      "beerStyle": "Scotch Ale",
+      "bottleDate": "2018",
+      "abv": "13.4",
+      "ibu": "53",
+      "description": "Whiskey Barrel-Aged Wee Heavy Scotch Ale",
+      "id": 5
+    },
+    {
+      "name": "Wee Heavy",
+      "brewery": "Tusk and Grain",
+      "beerStyle": "Scotch Ale",
+      "bottleDate": "2018",
+      "abv": "11.32",
+      "ibu": "39",
+      "description": "Bourbon Barrel Aged Scotch-Style Ale with Hazelnuts and Cacao Nibs",
+      "id": 6
+    },
+    {
+      "name": "Bourbon Little Brother",
+      "brewery": "The Commons Brewery",
+      "beerStyle": "Belgian Style Dark Ale",
+      "bottleDate": "2016",
+      "abv": "10",
+      "ibu": "48",
+      "description": "Bourbon Barrel Aged Belgian Style Dark Ale",
+      "id": 7
+    },
+    {
+      "name": "Salted Caramel Porter",
+      "brewery": "Cascade Lakes Brewing Company",
+      "beerStyle": "Porter",
+      "bottleDate": "2017",
+      "abv": "5.8",
+      "ibu": "37",
+      "description": "Porter with Sea Salt and Caramel",
+      "id": 8
+    },
+    {
+      "name": "Ginger Bigfoot",
+      "brewery": "Sierra Nevada",
+      "beerStyle": "Ale",
+      "bottleDate": "2017",
+      "abv": "11.4",
+      "ibu": "55",
+      "description": "Ale Aged in Whiskey Barrels with Ginger Added",
+      "id": 9
+    },
+    {
+      "name": "Top ‘O The Feckin Mornin’",
+      "brewery": "Feckin Irish Brewing Co.",
+      "beerStyle": "Milk Porter",
+      "bottleDate": "2018",
+      "abv": "9.5",
+      "ibu": "23",
+      "description": "Imperial Espresso Milk Porter with notes of Irish Whiskey and Vanilla Beans",
+      "id": 10
+    },
+    {
+      "name": "Super Nebula",
+      "brewery": "Block 15 Brewing Co.",
+      "beerStyle": "Imperial Stout Matured in Bourbon Barrels and Conditioned on Cocoa Nibs",
+      "bottleDate": " January 2019",
+      "abv": "11",
+      "ibu": "45",
+      "description": "Imperial Stout Matured in Bourbon Barrels and Conditioned on Cocoa Nibs",
+      "id": 11
+    },
+    {
+      "name": "Figgy Pudding",
+      "brewery": "Block 15 Brewing Co.",
+      "beerStyle": "English Style Old Ale Aged in Brandy Barrels with Spices Added",
+      "bottleDate": "October 2017",
+      "abv": "10",
+      "ibu": "49",
+      "description": "English Style Old Ale Aged in Brandy Barrels with Spices Added",
+      "id": 12
+    },
+    {
+      "name": "Old Rasputin",
+      "brewery": "North Coast Brewing Co.",
+      "beerStyle": "Russian Imperial Stout",
+      "bottleDate": "2016",
+      "abv": "11.2",
+      "ibu": "58",
+      "description": "Stout Aged in Bourbon Barrels",
+      "id": 13
+    },
+    {
+      "name": "Dark Star",
+      "brewery": "Fremont Brewing",
+      "beerStyle": "Imperial Oatmeal Stout",
+      "bottleDate": "2018",
+      "abv": "13.6",
+      "ibu": "40",
+      "description": "Imperial Oatmeal Stout Aged in Bourbon Barrels",
+      "id": 14
+    },
+    {
+      "name": "Oude Geuze",
+      "brewery": "3 Fonteinan",
+      "beerStyle": "Traditional Lamic",
+      "bottleDate": "March 22, 2018",
+      "abv": "6.5",
+      "ibu": "30",
+      "description": "Unfiltered Tradition Style Gueze",
+      "id": 15
+    },
+    {
+      "name": "Speedway Stout",
+      "brewery": "AleSmith Brewing Company",
+      "beerStyle": "Imperial Stout",
+      "bottleDate": "February 4, 2015",
+      "abv": "12",
+      "ibu": "53",
+      "description": "Imperial Stout with Coffee",
+      "id": 16
+    },
+    {
+      "name": "The Rusty Nail",
+      "brewery": "Fremont Brewing",
+      "beerStyle": "Imperial Stout Brewed with Licorice with Cinnamon Bark Added",
+      "bottleDate": "2017",
+      "abv": "12.7",
+      "ibu": "44",
+      "description": "Imperial Stout Brewed with Licorice with Cinnamon Bark Added",
+      "id": 17
+    },
+    {
+      "name": "B-Bomb",
+      "brewery": "Fremont Brewing",
+      "beerStyle": "Barrel Aged Imperial Stout",
+      "bottleDate": "2018",
+      "abv": "14",
+      "ibu": "61",
+      "description": "Barrel Aged Imperial Stout",
+      "id": 18
+    },
+    {
+      "name": "Yeti",
+      "brewery": "Great Divide Brewing Co.",
+      "beerStyle": "Imperial Stout",
+      "bottleDate": "May 31, 2017",
+      "abv": "9.5",
+      "ibu": "45",
+      "description": "Imperial Stout",
+      "id": 19
+    },
+    {
+      "name": "CBS - 2018",
+      "brewery": "Founders",
+      "beerStyle": "Imperial Stout",
+      "bottleDate": "2018",
+      "abv": "11.7",
+      "ibu": "49",
+      "description": "Imperial Stout Brewed with Chocolate and Coffee Aged in Maple Syrup-Bourbon Barrels",
+      "id": 20
+    },
+    {
+      "name": "Nieuw Bruin",
+      "brewery": "Base Camp Brewing Company",
+      "beerStyle": "Belgian Style Brown Ale",
+      "bottleDate": "2019",
+      "abv": "9",
+      "ibu": "36",
+      "description": "Belgian-Style Brown Fermented with Saison and Brettanomyces Yeasts in Oak Barrels",
+      "id": 21
+    },
+    {
+      "name": "CBS - 2017",
+      "brewery": "Founders",
+      "beerStyle": "Imperial Stout",
+      "bottleDate": "2017",
+      "abv": "11.6",
+      "ibu": "49",
+      "description": "Imperial Stout Brewed with Chocolate and Coffee Aged in Maple Syrup-Bourbon Barrels",
+      "id": 22
+    }
+  ]
+}
